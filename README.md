@@ -193,3 +193,4 @@ else:
 
 
 ### RESULT:
+Thus, the PDF-Based Question-Answering Chatbot was successfully developed using LangChain, Retrieval-Augmented Generation (RAG), OpenAI embeddings, and Chroma vector database. The system successfully loads the PDF document, extracts and splits its content, stores the text embeddings, and retrieves relevant information based on user questions. The chatbot generates answers from the PDF content and displays the corresponding source documents. Therefore, the objective of developing an interactive PDF-based question-answering chatbot was achieved.
