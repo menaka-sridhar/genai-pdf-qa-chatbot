@@ -187,6 +187,7 @@ else:
 ### OUTPUT:
 ### QUESTION 1:
 <img width="623" height="568" alt="image" src="https://github.com/user-attachments/assets/7a29ec1c-4bf6-473b-928a-53d51c80a301" />
+
 ### QUESTION 2:
 <img width="626" height="673" alt="image" src="https://github.com/user-attachments/assets/86f69e32-7251-4e23-bc58-969b34eb9082" />
 
